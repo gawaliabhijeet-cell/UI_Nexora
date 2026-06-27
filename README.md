@@ -99,9 +99,7 @@ npm run dev
 
 ### LOGO
 
-```md
-![project pic](../UI_Nexora/src/pic/logo.png)
-```
+[click me](./src/pic/logo.png)
 
 ---
 
