@@ -49,9 +49,12 @@ A modern and responsive **Electronics E-commerce Website** built using **React**
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/nexora.git
+git clone https://github.com/gawaliabhijeet-cell/UI_Nexora.git
 ```
-
+### install vite
+```bash
+npm create vite
+```
 ### Go to the project folder
 
 ```bash
