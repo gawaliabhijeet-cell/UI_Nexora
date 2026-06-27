@@ -13,7 +13,7 @@ A modern and responsive **Electronics E-commerce Website** built using **React**
 ![project screenshot](../UI_Nexora//screenshot/four.png)
 ![project screenshot](../UI_Nexora//screenshot/three.png)
 ![project screenshot](../UI_Nexora//screenshot/five.png)
-``
+
 
 ---
 
