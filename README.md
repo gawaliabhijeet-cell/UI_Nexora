@@ -8,11 +8,17 @@ A modern and responsive **Electronics E-commerce Website** built using **React**
 
 > Add a screenshot of your project here.
 
-![project screenshot](../UI_Nexora/screenshot/one.png)
-![project screenshot](../UI_Nexora/screenshot/two.png)
-![project screenshot](../UI_Nexora/screenshot/four.png)
-![project screenshot](../UI_Nexora/screenshot/three.png)
-![project screenshot](../UI_Nexora/screenshot/five.png)
+## 📷 Screenshots
+
+![Home](./screenshot/one.png)
+
+![Products](./screenshot/two.png)
+
+![Newsletter](./screenshot/four.png)
+
+![Banner](./screenshot/three.png)
+
+![Footer](./screenshot/five.png)
 
 
 ---
